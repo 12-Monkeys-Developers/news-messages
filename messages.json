@@ -2,7 +2,11 @@
     "messages": [
         {
             "version":1,
-            "message":"<h1>Bienvenue dans les modules Foundry des 12 Singes.</h1><br/>Si vous avez des questions, rejoignez sur Discord les communautés 'Les XII Singes' ou 'La Fonderie'."
+            "message":"<h1>Bienvenue dans les modules Foundry des XII Singes.</h1><br/>Si vous avez des questions, rejoignez les communautés 'Les XII Singes' ou 'La Fonderie' sur Discord."
+        },
+        {
+            "version":2,
+            "message":"<h1>Mise à jour 1.1.0 pour Les Encagés.</h1><br/>Mettez à jour votre module pour bénéficier des dernières corrections (images des relevés téléphoniques)."
         }
     ]    
 }
