@@ -15,6 +15,10 @@
         {
             "version":4,
             "message":"<h1>Mise à jour 1.1.2 pour Pax Elfica.</h1><br/>Mettez à jour votre module pour bénéficier des dernières corrections (correction de bugs, cartes sans trame, encart manquant rajouté)."
+        },
+        {
+            "version":5,
+            "message":"<h1>Mise à jour 1.1.0 pour Libri Monstrorum.</h1><br/>Mettez à jour votre module pour bénéficier des dernières améliorations (suppression de deux pages inutiles, menu pour afficher/cacher les scènes par scénario)."
         }
     ]    
 }
