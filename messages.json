@@ -5,12 +5,8 @@
             "message":"<h1>Bienvenue dans les modules Foundry des XII Singes.</h1><br/>Si vous avez des questions, rejoignez les communautés 'Les XII Singes' ou 'La Fonderie' sur Discord."
         },
         {
-            "version":4,
-            "message":"<h1>Mise à jour 1.1.2 pour Pax Elfica.</h1>12/12/2022<br/>Mettez à jour votre module pour bénéficier des dernières corrections (correction de bugs, cartes sans trame, encart manquant rajouté)."
-        },
-        {
-            "version":5,
-            "message":"<h1>Mise à jour 1.1.0 pour Libri Monstrorum.</h1>08/01/2023<br/>Mettez à jour votre module pour bénéficier des dernières améliorations (suppression de deux pages inutiles, menu pour afficher/cacher les scènes par scénario)."
+            "version":6,
+            "message":"<h1>11/06/2023 : Tous les modules Cthulhu Hack sont maintenant compatibles V11."
         }
     ]    
 }
