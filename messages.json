@@ -7,6 +7,10 @@
         {
             "version":8,
             "message":"<h1>23/02/2024 - Pax Elfica version 1.2.0</h1><br/>Ajout d'une fonctionnalité de recherche dans les journaux."
+        },
+        {
+            "version":9,
+            "message":"<h1>05/05/2024 - Cthulhu Hack - La Lisière version 1.2.0</h1><br/>Divers correctifs sur les journaux."
         }
     ]    
 }
