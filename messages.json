@@ -5,12 +5,8 @@
             "message":"<h1>Bienvenue dans les modules Foundry des XII Singes.</h1>Si vous avez des questions, rejoignez les communautés 'Les XII Singes' ou 'La Fonderie' sur Discord."
         },
         {
-            "version":8,
-            "message":"<h1>23/02/2024 - Pax Elfica version 1.2.0</h1>Ajout d'une fonctionnalité de recherche dans les journaux."
-        },
-        {
-            "version":9,
-            "message":"<h1>05/05/2024 - Cthulhu Hack - La Lisière version 1.2.0</h1>Divers correctifs sur les journaux."
+            "version":10,
+            "message":"<h1>30/06/2024 - Compatibilité Foundry V12</h1>Tous les systèmes et modules des XII Singes sont compatibles avec la version 12 de Foundry VTT. Pensez bien à sauvegarder vos parties avant de les mettre à jour."
         }
     ]    
 }
