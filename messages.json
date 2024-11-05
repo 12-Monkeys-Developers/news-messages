@@ -7,6 +7,10 @@
         {
             "version":10,
             "message":"<h1>30/06/2024 - Compatibilité Foundry V12</h1>Tous les systèmes et modules des XII Singes sont compatibles avec la version 12 de Foundry VTT. Pensez bien à sauvegarder vos parties avant de les mettre à jour."
+        },
+        {
+            "version":11,
+            "message":"<h1>04/11/2024 - Cthulhu Tenebris</h1>Le système et le module Livres de base sont maintenant disponibles."
         }
     ]    
 }
