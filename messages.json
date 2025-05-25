@@ -5,20 +5,8 @@
       "message": "<h1>Bienvenue dans les modules Foundry des XII Singes.</h1>Si vous avez des questions, rejoignez les communautés 'Les XII Singes' ou 'La Fonderie' sur Discord."
     },
     {
-      "version": 10,
-      "message": "<h1>30/06/2024 - Compatibilité Foundry V12</h1>Tous les systèmes et modules des XII Singes sont compatibles avec la version 12 de Foundry VTT. Pensez bien à sauvegarder vos parties avant de les mettre à jour."
-    },
-    {
-      "version": 11,
-      "message": "<h1>04/11/2024 - Cthulhu Tenebris</h1>Le système et le module Livres de base sont maintenant disponibles."
-    },
-    {
-        "version": 12,
-        "message": "<h1>18/12/2024 - Cthulhu Tenebris</h1>Le module de la campagne Des Profondeurs est disponible."
-      },
-    {
-      "version": 13,
-      "message": "<h1>31/01/2025 - Cthulhu Hack</h1>Le module de la campagne Les secrets de Milo est disponible."
+      "version": 14,
+      "message": "<h1>25/05/2025 - Compatibilité Foundry V13</h1>La mise à jour des modules pour Foundry V13 est en cours. En attendant, les modules sont uniquement compatibles avec la version 12 de Foundry VTT."
     }
   ]
 }
