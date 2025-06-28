@@ -2,11 +2,23 @@
   "messages": [
     {
       "version": 1,
-      "message": "<h1>Bienvenue dans les modules Foundry des XII Singes.</h1>Si vous avez des questions, rejoignez les communautés 'Les XII Singes' ou 'La Fonderie' sur Discord."
+      "message": "<h3 class=\"nue\">Bienvenue dans les modules Foundry des XII Singes.</h3>Si vous avez des questions, rejoignez les communautés 'Les XII Singes' ou 'La Fonderie' sur Discord."
     },
     {
       "version": 14,
-      "message": "<h1>25/05/2025 - Compatibilité Foundry V13</h1>La mise à jour des modules pour Foundry V13 est en cours. En attendant, les modules sont uniquement compatibles avec la version 12 de Foundry VTT."
+      "message": "<h3 class=\"nue\">25/5/25 - Compatibilité Foundry V13</h3>La mise à jour des modules pour Foundry V13 est en cours. En attendant, les modules sont uniquement compatibles avec la version 12 de Foundry VTT."
+    },
+    {
+      "version": 15,
+      "message": "<h3 class=\"nue\">9/6/25 - Cthulhu Hack V13</h3>Le système et les modules premium sont désormais compatibles Foundry V13."
+    },
+    {
+      "version": 16,
+      "message": "<h3 class=\"nue\">22/6/25 - Clé en main V13</h3>Le système et les modules premium sont désormais compatibles Foundry V13."
+    },
+    {
+      "version": 17,
+      "message": "<h3 class=\"nue\">28/6/25 - Cthulhu Tenebris V13</h3>Le système et les modules premium sont désormais compatibles Foundry V13."
     }
   ]
 }
